@@ -1,0 +1,14 @@
+id: fee23ed3bf4b4feb8a47f5337d205390
+annotation_type: Segment
+revision: '00001'
+annotations:
+  390bc084bef547fda691490588210c69:
+    span:
+      start: 0
+      end: 33
+    metadata: {}
+  47028aee96e448ee9c758ad814aaf487:
+    span:
+      start: 35
+      end: 2305
+    metadata: {}
